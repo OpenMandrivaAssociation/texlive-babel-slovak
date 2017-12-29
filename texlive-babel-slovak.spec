@@ -5,8 +5,8 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-babel-slovak
-Version:	20131013
-Release:	9
+Version:	3.1a
+Release:	1
 Summary:	TeXLive babel-slovak package
 Group:		Publishing
 URL:		http://tug.org/texlive
