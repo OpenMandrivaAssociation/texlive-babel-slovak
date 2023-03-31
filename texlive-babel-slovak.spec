@@ -1,6 +1,6 @@
 Name:		texlive-babel-slovak
 Version:	30292
-Release:	1
+Release:	2
 Summary:	TeXLive babel-slovak package
 Group:		Publishing
 URL:		http://tug.org/texlive
